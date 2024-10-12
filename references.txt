@@ -5,3 +5,10 @@ https://arxiv.org/pdf/2309.15902
 2. THE AGES OF 55 GLOBULAR CLUSTERS AS DETERMINED USING AN IMPROVED ∆V_HB^TO METHOD ALONG 
 WITH COLOR-MAGNITUDE DIAGRAM CONSTRAINTS, AND THEIR IMPLICATIONS FOR BROADER ISSUES
 https://arxiv.org/pdf/1308.2257
+
+3. Can we really pick and choose? Benchmarking various selections of Gaia
+Enceladus/Sausage stars in observations with simulations
+https://pure.rug.nl/ws/portalfiles/portal/935804210/stad3274.pdf
+
+4. GALAXY ASSEMBLY REVEALED BY GLOBULAR CLUSTERS
+https://arxiv.org/pdf/2401.17420
